@@ -26,7 +26,7 @@ function FectchData() {
         []
     )
   return (
-    <div>
+    <div class="dataParent">
      {
         data.map(
           (d,index) =>
